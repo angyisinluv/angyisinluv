@@ -1,4 +1,4 @@
-![logo](https://github.com/angyisinluv/Angyllyn_Gurng/blob/main/welcome!%20(1).gif)
+![logo](https://github.com/angyisinluv/angyisinluv/blob/main/welcome!%20(1).gif)
 <h1 align="center">Hi 👋, I'm Angyllyn Gurung</h1>
 <h3 align="center">A learner from Nepal</h3>
 
